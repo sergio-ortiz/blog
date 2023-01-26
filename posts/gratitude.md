@@ -3,12 +3,15 @@
 -  Chicken and rice
 -  Cheap Chicken Monday
 -  Fully cooked frozen chicken strips
+-  olive oil
+-  stainless steel spatula
 -  Fast Food
 -  The Drive Thru
 -  Wendys
 -  The 5 dollar Biggie Bag
 -  Planet Fitness
 -  La Fitness
+-  MMA
 -  T R A P P I N IN J A P A N
 -  V A P O R W A V E
 -  lofi
@@ -23,11 +26,25 @@
 -  dopamine detox
 -  Men's health
 -  testosterone
+-  Brahmacharya
+-  ashwagandha
+-  ginseng
+-  green tea
+-  caffiene
+-  L-theanine
+-  Zinc
+-  Magnesium
+-  B-vitamins
+-  non-stim pre-workout
+-  Walmart
+-  7-eleven
 -  Mental Health
--  Brahmeacharya
+-  meditation
+-  journaling
 -  Reject Modernity videos
 -  Literally me movies/shows
 -  used Thinkpads
+-  Bananas
 -  Linux
 -  Bash
 -  Vim
@@ -35,4 +52,45 @@
 -  powerlevel10k
 -  EndeavourOS
 -  VirtualBox
--  The Arch-Wiki
+-  The Arch Wiki
+-  The Tor project
+-  The youtube-dl project
+-  GitHub
+-  Git
+-  HTML & CSS
+-  JavaScript
+-  React
+-  Next.js
+-  node
+-  npm
+-  mdn
+-  google
+-  stackoverflow
+-  RTFM!
+-  The github CLI
+-  Serveless
+-  DevOps
+-  Ternary Expression
+-  Arrow Functions
+-  Template literals
+-  async await
+-  UI components 
+-  Function components
+-  ES modules
+-  the useState hook
+-  props
+-  regular expressions
+-  freeCodeCamp
+-  Traversy Media
+-  pass phrases
+-  crypto
+-  ORMs
+-  blue-light blocking glasses
+-  xfce
+-  package managers
+-  file-system based routing
+-  SSG and SSR
+-  SaaS
+-  cloud
+-  API's
+-  Markdown
