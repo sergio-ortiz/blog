@@ -1,2 +1,36 @@
--  chicken
--  rice
+# Gratitude list
+
+-  Chicken and rice
+-  Cheap Chicken Monday
+-  Fully cooked frozen chicken strips
+-  Fast Food
+-  The Drive Thru
+-  Wendys
+-  The 5 dollar Biggie Bag
+-  Planet Fitness
+-  La Fitness
+-  T R A P P I N IN J A P A N
+-  V A P O R W A V E
+-  lofi
+-  T R A S H
+-  phonk
+-  Zyzz
+-  Aesthetics
+-  Self imporvement
+-  progressive ovelroad
+-  delayed gratification
+-  dopamine detox
+-  Men's health
+-  testosterone
+-  Mental Health
+-  Brahmeacharya
+-  Reject Modernity videos
+-  Literally me movies/shows
+-  used Thinkpads
+-  Linux
+-  Bash
+-  Vim
+-  Oh-my-Zsh!
+-  EndeavourOs
+-  VirtualBox
+-  The Arch-Wiki
