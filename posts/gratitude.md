@@ -13,6 +13,7 @@
 -  V A P O R W A V E
 -  lofi
 -  T R A S H
+-  Anime
 -  phonk
 -  Zyzz
 -  Aesthetics
@@ -31,6 +32,7 @@
 -  Bash
 -  Vim
 -  Oh-my-Zsh!
--  EndeavourOs
+-  powerlevel10k
+-  EndeavourOS
 -  VirtualBox
 -  The Arch-Wiki
