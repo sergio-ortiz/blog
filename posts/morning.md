@@ -2,7 +2,8 @@
 
 -  wake up from and hit a plank ~ 1:45
 -  make ginseng tea
--  make breakfast 
+-  make breakfast
+-  supplement regiment
 -  go outside
 -  cold shower
 -  meditate
