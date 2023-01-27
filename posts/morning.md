@@ -1,6 +1,6 @@
 # a morning routine
 
--  wake up from and hit a plank ~ 1:45
+-  wake up from alarm and hit a plank ~ 1:45
 -  make ginseng tea
 -  make breakfast
 -  supplement regiment
