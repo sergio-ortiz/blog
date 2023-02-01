@@ -9,3 +9,4 @@
 -  nvm, node, npm
 -  .vimrc for React and JS dev
 -  tor-browser, youtube-dl
+-  libreoffice

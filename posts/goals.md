@@ -10,3 +10,5 @@
 10. install VirtualBox on Arch Linux
 11. Install and setup nd learn Neovim. migrate from Vim to Neovim.
 12. Tails and Dread
+13. learn bash and start automating.
+14. build cli's in node
