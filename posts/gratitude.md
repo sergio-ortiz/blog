@@ -80,6 +80,7 @@
 -  the useState hook
 -  props
 -  regular expressions
+-  try catch blocks
 -  freeCodeCamp
 -  Traversy Media
 -  pass phrases
