@@ -9,8 +9,9 @@
 take advantage of the weekend where you have ~ 9hrs extra to prepare for the week.
 
 I'm weight training for aesthtics with push, pull, legs, then break day. 
-I will train Muay Thai with nico on my break days.
+I will train Muay Thai with nico on my break days. ~ 2x/week
+Also take advantage of your break days as a buffer to smooth out your week schedule.
 
 I will need to communicate with my trainer in order to work out a schedule with him for Muay Thai training. 
 I will also need to communicate with my friends on the weekend to take advantage of their gym memberships 
-so that I dont have to go the one all the way down by my office.
+so that I dont have to go to the one all the way down by my office.

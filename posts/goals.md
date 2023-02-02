@@ -5,7 +5,7 @@
 5. Once you feel comfortable working in the VM try installing Arch Linux on your hardware
 6. version control your dotfiles with ln, git bare, gnu stow?
 7. delete youtube, maybe youtube from the command line?
-8. delete apple music, migrate to spotify and soundcloud w/ youtube-dl
+8. delete apple music, migrate to spotify and soundcloud, musi - music streaming
 9. buy domain name and point dns to here
 10. install VirtualBox on Arch Linux
 11. Install and setup nd learn Neovim. migrate from Vim to Neovim.
