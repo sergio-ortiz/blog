@@ -3,13 +3,14 @@
 * Gym before work + pop a prewerk
 * Maybe take naps during the day
 * Meditation + Brahmacharya
-* Meal prepping
+* Meal prepping - Hard Boiled eggs + bacon, chicken + rice
 * clean out condo + minimalism
 * buy all black fabletics drip for work
 * Hair loss treatment
 * stay on your routines and schedule
 * Back End Development certification
-* Dads Legacy site migration
+* Client's Legacy site migration
 * Drink more water
-* Buy Jump ropes
-* separate gym bag and work bag
+* Buy nd start jump-roping
+* designated gym bag and backpack for work
+* Night time and morning routines documented
