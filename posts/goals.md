@@ -14,3 +14,9 @@
 14. build cli's in node
 15. Install Mixxx and use youtube-dl to download playlists from soundcloud and practice DJing
 16. Finnish React Docs: "Guide to main concepts", "thinking in react"
+17. ~~freeCodeCamp's (New) Responsive Web Design Certification~~
+18. Migrate terminatevirus.com from HTML + CSS + JS to Next.js + React + CSS Modules -> tervillc.com
+19. freeCodeCamp's Back End Development certification
+20. freeCodeCamp's Front End Development certification
+21. freeCodeCamp's Relational Database (Beta) certification
+22. ~~freeCodeCamp's JavaScript Algorithms and Data Structures certification~~

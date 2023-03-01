@@ -6,3 +6,6 @@
 4. Skrillex
 5. Jack U
 6. Marshmello
+---
+7. Liquid Stranger
+8. LSDREAM
