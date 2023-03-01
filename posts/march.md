@@ -4,7 +4,7 @@
 * Maybe take naps during the day
 * Meditation + Brahmacharya
 * Meal prepping - Hard Boiled eggs + bacon, chicken + rice
-* clean out condo + minimalism
+* clean out condo + minimalism, get boxes from garage nd fill them with all the clothes u dont wear
 * buy all black fabletics drip for work
 * Hair loss treatment
 * stay on your routines and schedule
